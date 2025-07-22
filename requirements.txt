@@ -1,0 +1,26 @@
+# Standard
+scipy
+numpy
+pandas
+xarray
+
+# Jupyter
+ipykernel
+
+# ML scpecify
+scikit-learn
+# pytorch
+mlflow
+
+# pyTorch
+--extra-index-url https://download.pytorch.org/whl/rocm6.3
+torch
+torchvision
+torchaudio
+
+# Pythonic
+pydantic
+flake8
+
+# Files
+yaml
