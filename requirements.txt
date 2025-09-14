@@ -25,6 +25,7 @@ python-dotenv
 torch
 torchvision
 torchaudio
+tensorboard
 
 # Pythonic
 pydantic
