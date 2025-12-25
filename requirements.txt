@@ -27,6 +27,9 @@ torchvision
 torchaudio
 tensorboard
 
+# Graphs
+torch_geometric
+
 # Pythonic
 pydantic
 flake8
